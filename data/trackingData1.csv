@@ -1,0 +1,46 @@
+Day ID,Day of Week,Sleep Hours,Study Hours,Work Day,Eat Out/Cooked,Emotion
+1,Monday,6.5,2,no,Cooked,Blushing
+2,Tuesday,7,1,no,Cooked,Happy
+3,Wednesday,6.5,1,no,Eat Out,Neutral
+4,Thursday,6,0.75,yes,Cooked,Unamused
+5,Friday,8,0.25,yes,Cooked,Freezing
+6,Saturday,4,1,yes,Cooked,Sleepy
+7,Sunday,9,1.5,yes,Eat Out,Happy
+8,Monday,7,4,no,Cooked,Neutral
+9,Tuesday,7,3,no,Eat Out,Happy
+10,Wednesday,8,2,no,Eat Out,Persevering
+11,Thursday,6,0,yes,Eat Out,Happy
+12,Friday,6,1.25,yes,Cooked,Confused
+13,Saturday,6.5,0,yes,Cooked,Happy
+14,Sunday,5.75,3,yes,Cooked,Neutral
+15,Monday,8,1,no,Cooked,Expressionless
+16,Tuesday,7,5.5,no,Cooked,Neutral
+17,Wednesday,7.25,6.5,no,Cooked,Sleepy
+18,Thursday,8,5,yes,Eat Out,Persevering
+19,Friday,6.5,4,yes,Cooked,Disappointed
+20,Saturday,5,0,yes,Cooked,Holding back tears
+21,Sunday,6.5,0,yes,Cooked,Blushing
+22,Monday,6,3,no,Cooked,Expressionless
+23,Tuesday,7.5,9,no,Cooked,Blushing
+24,Wednesday,8.25,3,no,Eat Out,Expressionless
+25,Thursday,7.5,4,yes,Cooked,Happy
+26,Friday,6,5.25,yes,Cooked,Disappointed
+27,Saturday,5,7,yes,Cooked,Expressionless
+28,Sunday,6.5,5,yes,Eat Out,Blushing
+29,Monday,5.25,3.5,no,Cooked,Freezing
+30,Tuesday,8.75,7.75,no,Cooked,Happy
+31,Wednesday,6.5,4.5,no,Cooked,Blushing
+32,Thursday,8,2,yes,Cooked,Yawning
+33,Friday,7.25,6.5,yes,Cooked,Persevering
+34,Saturday,6,0,yes,Eat Out,Weary
+35,Sunday,8.25,4,yes,Cooked,Sleepy
+36,Monday,7.5,3,no,Cooked,Happy
+37,Tuesday,6.25,5.25,no,Eat Out,Happy
+38,Wednesday,7.75,4,no,Eat Out,Grinning
+39,Thursday,8.25,4.5,yes,Cooked,Loving
+40,Friday,5.5,4.75,yes,Cooked,Neutral
+41,Saturday,5.25,3.75,yes,Cooked,Happy
+42,Sunday,6.25,6.75,yes,Eat Out,Unamused
+43,Monday,5,6.25,no,Cooked,Weary
+44,Tuesday,6.5,1.75,no,Cooked,Neutral
+45,Wednesday,5.75,7.5,no,Eat Out,Happy
